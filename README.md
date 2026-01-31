@@ -7,11 +7,11 @@
 [![Latest Stable Release](https://img.shields.io/github/v/release/pkgforge-dev/CorsixTH-AppImage)](https://github.com/pkgforge-dev/CorsixTH-AppImage/releases/latest)
 
 <p align="center">
-  <img src="https://github.com/CorsixTH.png" width="128" />
+  <img src="https://github.com/CorsixTH/CorsixTH/blob/master/CorsixTH/Original_Logo.svg?raw" width="128" />
 </p>
 
 
-| Latest Stable Release | Upstream URL |
+| Latest Nightly Release | Upstream URL |
 | :---: | :---: |
 | [Click here](https://github.com/pkgforge-dev/CorsixTH-AppImage/releases/latest) | [Click here](https://github.com/CorsixTH/CorsixTH) |
 
