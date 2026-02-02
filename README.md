@@ -1,10 +1,10 @@
 <div align="center">
 
-# CorsixTH-AppImage 🐧
+# CorsixTH-AppImage-Enhanced 🐧
 
-[![GitHub Downloads](https://img.shields.io/github/downloads/pkgforge-dev/CorsixTH-AppImage/total?logo=github&label=GitHub%20Downloads)](https://github.com/pkgforge-dev/CorsixTH-AppImage/releases/latest)
-[![CI Build Status](https://github.com//pkgforge-dev/CorsixTH-AppImage/actions/workflows/appimage.yml/badge.svg)](https://github.com/pkgforge-dev/CorsixTH-AppImage/releases/latest)
-[![Latest Stable Release](https://img.shields.io/github/v/release/pkgforge-dev/CorsixTH-AppImage)](https://github.com/pkgforge-dev/CorsixTH-AppImage/releases/latest)
+[![GitHub Downloads](https://img.shields.io/github/downloads/pkgforge-dev/CorsixTH-AppImage-Enhanced/total?logo=github&label=GitHub%20Downloads)](https://github.com/pkgforge-dev/CorsixTH-AppImage-Enhanced/releases/latest)
+[![CI Build Status](https://github.com//pkgforge-dev/CorsixTH-AppImage-Enhanced/actions/workflows/appimage.yml/badge.svg)](https://github.com/pkgforge-dev/CorsixTH-AppImage-Enhanced/releases/latest)
+[![Latest Stable Release](https://img.shields.io/github/v/release/pkgforge-dev/CorsixTH-AppImage-Enhanced)](https://github.com/pkgforge-dev/CorsixTH-AppImage-Enhanced/releases/latest)
 
 <p align="center">
   <img src="https://github.com/CorsixTH/CorsixTH/blob/master/CorsixTH/Original_Logo.svg?raw" width="128" />
@@ -13,7 +13,7 @@
 
 | Latest Nightly Release | Upstream URL |
 | :---: | :---: |
-| [Click here](https://github.com/pkgforge-dev/CorsixTH-AppImage/releases/latest) | [Click here](https://github.com/CorsixTH/CorsixTH) |
+| [Click here](https://github.com/pkgforge-dev/CorsixTH-AppImage-Enhanced/releases/latest) | [Click here](https://github.com/CorsixTH/CorsixTH) |
 
 </div>
 
