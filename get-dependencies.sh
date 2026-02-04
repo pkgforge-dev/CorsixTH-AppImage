@@ -6,7 +6,9 @@ ARCH=$(uname -m)
 
 echo "Installing package dependencies..."
 echo "---------------------------------------------------------------"
-pacman -Syu --noconfirm doxygen \
+pacman -Syu --noconfirm \
+    doxygen        \
+    fluidsynth     \
     pipewire-audio \
     pipewire-jack  \
     rtmidi
