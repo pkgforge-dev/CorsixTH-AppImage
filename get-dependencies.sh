@@ -7,6 +7,8 @@ ARCH=$(uname -m)
 echo "Installing package dependencies..."
 echo "---------------------------------------------------------------"
 pacman -Syu --noconfirm doxygen \
+    pipewire-audio \
+    pipewire-jack  \
     rtmidi
 
 echo "Installing debloated packages..."
