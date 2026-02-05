@@ -7,7 +7,6 @@ ARCH=$(uname -m)
 echo "Installing package dependencies..."
 echo "---------------------------------------------------------------"
 pacman -Syu --noconfirm \
-    alsa-plugins   \
     doxygen        \
     fluidsynth     \
     pipewire-alsa  \
