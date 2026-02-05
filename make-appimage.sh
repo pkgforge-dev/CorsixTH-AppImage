@@ -14,7 +14,7 @@ export DEPLOY_OPENGL=1
 export DEPLOY_PIPEWIRE=1
 
 # Deploy dependencies
-quick-sharun /usr/bin/corsix-th
+quick-sharun /usr/bin/corsix-th /usr/lib/alsa-lib/libasound_module_pcm_oss.so
 
 # Additional changes can be done in between here
 
